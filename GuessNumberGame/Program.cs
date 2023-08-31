@@ -13,4 +13,5 @@ for (int i = 5; i > 0; i--){
     else if (guess > random){
         Console.WriteLine("Nummret är lägre, Du har " + i.ToString() + " Gissningar kvar");
     }
+    Console.WriteLine("g");
 }
